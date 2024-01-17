@@ -1,5 +1,5 @@
 # 2024 CareerHack with MERN Stack
-This is a sample code and practice for 2024 CarrerHack courses
+This is a sample code and practice for 2024 CareerHack courses
 
 ## 0. Hello_docker
 
